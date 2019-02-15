@@ -8,8 +8,8 @@ The aim of this project is to do Exploratory Data Analysis on Zomato Dataset.
 5. Impact of online Delivery.
 6. City wise Best and worst Restaurants.
 
-Dataset: zomato.csv,Country-Code.xlsx
+# Dataset: zomato.csv,Country-Code.xlsx
 
-Notebook: Zomato EDA.ipynb
+# Notebook: Zomato EDA.ipynb
 
-Findings: Zomato_Findings.pptx
+# Findings: Zomato_Findings.pptx
